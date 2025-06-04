@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Parker Elftmann
 
-<!--
-**elftmann1/elftmann1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergrad at the University of Minnesota, Twin Cities, passionate about using technology to solve real-world problems.
 
-Here are some ideas to get you started:
+## 💻 Projects
+- 🎮 [Ice Melts](https://github.com/Darianlime/IceMelts)
+- 📦 [Portfolio site](https://github.com/elftmann1/portfolio-site-v1)
+- 🧠 [Knowledge Repository for Social Coding Club](https://github.com/cpet2301/AgendaLLM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Tech Stack
+- Languages: Python, Java, C++
+- Tools: Git, Docker, Unity, Unreal Engine
+- APIs: OpenAI, Ollama, GitHub REST
+
+## 📫 Reach Me
+- [LinkedIn](www.linkedin.com/in/parker-elftmann-02p)
+- [Email](mailto:elftm025@umn.com)
+
+- 🔭 I’m currently working on a new game, and some small summer projects
+- 🌱 I’m currently learning Unreal Engine
 -->
