@@ -13,9 +13,8 @@ I'm a Computer Science undergrad at the University of Minnesota, Twin Cities, pa
 - APIs: OpenAI, Ollama, GitHub REST
 
 ## 📫 Reach Me
-- [LinkedIn](www.linkedin.com/in/parker-elftmann-02p)
-- [Email](mailto:elftm025@umn.com)
+- [LinkedIn](https://www.linkedin.com/in/parker-elftmann-02p)
+- [Email](mailto:elftm025@umn.edu)
 
-- 🔭 I’m currently working on a new game, and some small summer projects
+- 🔭 I’m currently working on a new game, and some small summer projects  
 - 🌱 I’m currently learning Unreal Engine
--->
